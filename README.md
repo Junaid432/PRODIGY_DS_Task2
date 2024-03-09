@@ -1,12 +1,12 @@
-# PRODIGY_DS_Task2
+# Titanic Dataset Analysis
 
-Titanic Dataset Analysis
+
 This repository contains Python code for performing data analysis on the Titanic dataset. The dataset provides information about passengers aboard the Titanic, including demographic data and survival outcomes.
 
 Dataset Overview
 The Titanic dataset includes the following columns:
 
-Survived: Whether the passenger survived (0 = No, 1 = Yes)
+##Survived: Whether the passenger survived (0 = No, 1 = Yes)
 Pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
 Sex: Gender of the passenger
 Age: Age of the passenger
